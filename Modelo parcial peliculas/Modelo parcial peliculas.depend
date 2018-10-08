@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1538947131 source:c:\users\rodrigo\desktop\modelo parcial peliculas\directores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"directores.h"
+
+1538943948 source:c:\users\rodrigo\desktop\modelo parcial peliculas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+	"utn.h"
+
+1538947131 c:\users\rodrigo\desktop\modelo parcial peliculas\peliculas.h
+
+1538930454 c:\users\rodrigo\desktop\modelo parcial peliculas\utn.h
+
+1538947131 source:c:\users\rodrigo\desktop\modelo parcial peliculas\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"peliculas.h"
+	"directores.h"
+
+1538947131 c:\users\rodrigo\desktop\modelo parcial peliculas\directores.h
+
+1538931302 source:c:\users\rodrigo\desktop\modelo parcial peliculas\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+

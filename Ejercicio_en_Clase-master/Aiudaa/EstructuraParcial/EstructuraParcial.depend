@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1453762398 source:c:\users\fvg\desktop\estructuraparcial\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1538787421 source:c:\users\fvg\desktop\estructuraparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1538787364 source:c:\users\fvg\desktop\estructuraparcial\negocio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"negocio.h"
+
+1538787087 c:\users\fvg\desktop\estructuraparcial\negocio.h
+
+1538840131 source:c:\users\alumno\desktop\ejercicio_en_clase-master\estructuraparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleados.h"
+	"utn.h"
+	"sector.h"
+
+1538798394 source:c:\users\alumno\desktop\ejercicio_en_clase-master\estructuraparcial\negocio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"negocio.h"
+
+1538832713 c:\users\alumno\desktop\ejercicio_en_clase-master\estructuraparcial\negocio.h
+
+1538835831 source:c:\users\alumno\desktop\ejercicio_en_clase-master\estructuraparcial\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1538832516 source:c:\users\alumno\desktop\ejercicio_en_clase-master\estructuraparcial\almuerzo.c
+
+1538832566 source:c:\users\alumno\desktop\ejercicio_en_clase-master\estructuraparcial\fecha.c
+
+1538832487 source:c:\users\alumno\desktop\ejercicio_en_clase-master\estructuraparcial\menu.c
+
+1538840570 source:c:\users\alumno\desktop\ejercicio_en_clase-master\estructuraparcial\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleados.h"
+	"utn.h"
+
+1538840188 c:\users\alumno\desktop\ejercicio_en_clase-master\estructuraparcial\empleados.h
+	"fecha.h"
+	"sector.h"
+
+1538833384 c:\users\alumno\desktop\ejercicio_en_clase-master\estructuraparcial\fecha.h
+
+1538839143 source:c:\users\alumno\desktop\ejercicio_en_clase-master\estructuraparcial\sector.c
+
+1538836462 c:\users\alumno\desktop\ejercicio_en_clase-master\estructuraparcial\utn.h
+
+1538838225 c:\users\alumno\desktop\ejercicio_en_clase-master\estructuraparcial\sector.h
+

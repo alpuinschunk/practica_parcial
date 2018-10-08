@@ -1,0 +1,184 @@
+# depslib dependency file v1.0
+1538550678 source:e:\laboratorio i\practica primer parcial\almuerzo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"empleado.h"
+	"menues.h"
+	"almuerzo.h"
+
+1538552490 e:\laboratorio i\practica primer parcial\utn.h
+
+1538551264 e:\laboratorio i\practica primer parcial\empleado.h
+
+1538551264 e:\laboratorio i\practica primer parcial\menues.h
+
+1538550678 e:\laboratorio i\practica primer parcial\almuerzo.h
+
+1538551034 source:e:\laboratorio i\practica primer parcial\menues.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"empleado.h"
+	"menues.h"
+	"almuerzo.h"
+
+1538552484 source:e:\laboratorio i\practica primer parcial\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"utn.h"
+
+1538550882 source:e:\laboratorio i\practica primer parcial\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"empleado.h"
+	"menues.h"
+	"almuerzo.h"
+
+1538552472 source:e:\laboratorio i\practica primer parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"empleado.h"
+	"menues.h"
+	"almuerzo.h"
+
+1538942045 source:c:\users\user\downloads\utn docs\programacion i\practica primer parcial\almuerzo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"empleado.h"
+	"menues.h"
+	"almuerzo.h"
+
+1538552490 c:\users\user\downloads\utn docs\programacion i\practica primer parcial\utn.h
+
+1538941271 c:\users\user\downloads\utn docs\programacion i\practica primer parcial\empleado.h
+
+1538941695 c:\users\user\downloads\utn docs\programacion i\practica primer parcial\menues.h
+
+1538940743 c:\users\user\downloads\utn docs\programacion i\practica primer parcial\almuerzo.h
+
+1538940688 source:c:\users\user\downloads\utn docs\programacion i\practica primer parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"empleado.h"
+	"menues.h"
+	"almuerzo.h"
+
+1538941688 source:c:\users\user\downloads\utn docs\programacion i\practica primer parcial\menues.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"empleado.h"
+	"menues.h"
+	"almuerzo.h"
+
+1538552484 source:c:\users\user\downloads\utn docs\programacion i\practica primer parcial\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"utn.h"
+
+1538941278 source:c:\users\user\downloads\utn docs\programacion i\practica primer parcial\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"empleado.h"
+	"menues.h"
+	"almuerzo.h"
+
+1538942249 source:c:\users\rodrigo\desktop\practica primer parcial\almuerzo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"empleado.h"
+	"menues.h"
+	"almuerzo.h"
+
+1538552490 c:\users\rodrigo\desktop\practica primer parcial\utn.h
+
+1538941271 c:\users\rodrigo\desktop\practica primer parcial\empleado.h
+
+1538941695 c:\users\rodrigo\desktop\practica primer parcial\menues.h
+
+1538940743 c:\users\rodrigo\desktop\practica primer parcial\almuerzo.h
+
+1538941278 source:c:\users\rodrigo\desktop\practica primer parcial\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"empleado.h"
+	"menues.h"
+	"almuerzo.h"
+
+1538940688 source:c:\users\rodrigo\desktop\practica primer parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"empleado.h"
+	"menues.h"
+	"almuerzo.h"
+
+1538941688 source:c:\users\rodrigo\desktop\practica primer parcial\menues.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"empleado.h"
+	"menues.h"
+	"almuerzo.h"
+
+1538552484 source:c:\users\rodrigo\desktop\practica primer parcial\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"utn.h"
+

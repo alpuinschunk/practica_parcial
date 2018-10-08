@@ -1,0 +1,193 @@
+# depslib dependency file v1.0
+1537941696 source:e:\laboratorio i\tp's\tp 2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"ArrayEmployees.h"
+	"utn.h"
+
+1537941352 e:\laboratorio i\tp's\tp 2\arrayemployees.h
+
+1537940480 source:e:\laboratorio i\tp's\tp 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"ArrayEmployees.h"
+
+1537358240 source:e:\laboratorio i\tp's\tp 2\getfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1537914964 source:e:\laboratorio i\tp's\tp 2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"utn.h"
+
+1537367060 e:\laboratorio i\tp's\tp 2\utn.h
+
+1537388782 source:c:\users\user\documents\github\tp_laboratorio_1\tp 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"ArrayEmployees.h"
+
+1537388222 c:\users\user\documents\github\tp_laboratorio_1\tp 2\arrayemployees.h
+
+1537914963 source:c:\users\user\documents\github\tp_laboratorio_1\tp 2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"utn.h"
+
+1537367060 c:\users\user\documents\github\tp_laboratorio_1\tp 2\utn.h
+
+1537389163 source:c:\users\user\documents\github\tp_laboratorio_1\tp 2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"ArrayEmployees.h"
+	"utn.h"
+
+1537942280 source:e:\laboratorio i\practica de uno a muchos\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"ArrayEmployees.h"
+	"utn.h"
+
+1537941352 e:\laboratorio i\practica de uno a muchos\arrayemployees.h
+
+1537367060 e:\laboratorio i\practica de uno a muchos\utn.h
+
+1537940480 source:e:\laboratorio i\practica de uno a muchos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"ArrayEmployees.h"
+
+1537914964 source:e:\laboratorio i\practica de uno a muchos\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"utn.h"
+
+1537947608 source:e:\laboratorio i\practica de muchos a muchos\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"ArrayEmployees.h"
+	"utn.h"
+
+1538542152 e:\laboratorio i\practica de muchos a muchos\arrayemployees.h
+
+1538397500 e:\laboratorio i\practica de muchos a muchos\utn.h
+
+1537947558 source:e:\laboratorio i\practica de muchos a muchos\showmenu.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"ArrayEmployees.h"
+	"utn.h"
+
+1538397500 source:e:\laboratorio i\practica de muchos a muchos\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"utn.h"
+
+1538546742 source:e:\laboratorio i\practica de muchos a muchos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"empleado.h"
+	"menues.h"
+	"almuerzo.h"
+
+1537947558 e:\laboratorio i\practica de muchos a muchos\showmenu.h
+
+1538546944 source:e:\laboratorio i\practica de muchos a muchos\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"empleado.h"
+	"menues.h"
+	"almuerzo.h"
+
+1538546944 e:\laboratorio i\practica de muchos a muchos\empleado.h
+
+1538546906 source:e:\laboratorio i\practica de muchos a muchos\almuerzo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"empleado.h"
+	"menues.h"
+	"almuerzo.h"
+
+1538546906 e:\laboratorio i\practica de muchos a muchos\almuerzo.h
+
+1538542648 e:\laboratorio i\practica de muchos a muchos\comida.h
+
+1538542648 source:e:\laboratorio i\practica de muchos a muchos\comida.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"empleado.h"
+	"almuerzo.h"
+	"comida.h"
+
+1538546906 e:\laboratorio i\practica de muchos a muchos\menues.h
+
+1538546906 source:e:\laboratorio i\practica de muchos a muchos\menues.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"empleado.h"
+	"menues.h"
+	"almuerzo.h"
+

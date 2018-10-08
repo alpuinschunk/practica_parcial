@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1538976432 source:e:\modelo parcial\almuerzo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"almuerzo.h"
+	"menu.h"
+	"empleados.h"
+
+1538975294 e:\modelo parcial\almuerzo.h
+	"menu.h"
+	"empleados.h"
+
+1538928296 e:\modelo parcial\sector.h
+
+1538978214 source:e:\modelo parcial\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"empleados.h"
+
+1538973420 source:e:\modelo parcial\fecha.c
+
+1538978372 source:e:\modelo parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"almuerzo.h"
+	"empleados.h"
+	"menu.h"
+
+1538972158 e:\modelo parcial\empleados.h
+
+1538928230 e:\modelo parcial\fecha.h
+
+1538932480 e:\modelo parcial\menu.h
+
+1538928320 source:e:\modelo parcial\sector.c
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"empleados.h"
+	"sector.h"
+
+1538978214 source:e:\modelo parcial\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"menu.h"
+
+1538931302 source:e:\modelo parcial\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1538930454 e:\modelo parcial\utn.h
+
