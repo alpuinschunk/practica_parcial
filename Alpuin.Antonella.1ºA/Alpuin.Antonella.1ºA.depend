@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1539007226 source:d:\alpuin\alpuin.antonella.1ºa\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"cliente.h"
+
+1538930454 d:\alpuin\alpuin.antonella.1ºa\utn.h
+
+1539009765 d:\alpuin\alpuin.antonella.1ºa\cliente.h
+
+1539007226 source:d:\alpuin\alpuin.antonella.1ºa\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"juegos.h"
+
+1539001083 d:\alpuin\alpuin.antonella.1ºa\juegos.h
+
+1538931302 source:d:\alpuin\alpuin.antonella.1ºa\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1539007895 source:d:\alpuin\alpuin.antonella.1ºa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"alquileres.h"
+	"cliente.h"
+	"juegos.h"
+
+1539009831 source:d:\alpuin\alpuin.antonella.1ºa\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"alquileres.h"
+	"cliente.h"
+	"juegos.h"
+
+1539009765 d:\alpuin\alpuin.antonella.1ºa\alquileres.h
+	"juegos.h"
+	"cliente.h"
+
