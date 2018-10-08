@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="main.c" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2753" topLine="74" />
+		</Cursor>
+	</File>
+	<File name="directores.c" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="949" topLine="159" />
+		</Cursor>
+	</File>
+	<File name="directores.h" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="118" topLine="5" />
+		</Cursor>
+	</File>
+	<File name="peliculas.h" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="913" topLine="15" />
+		</Cursor>
+	</File>
+	<File name="peliculas.c" open="1" top="1" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="39" topLine="144" />
+		</Cursor>
+	</File>
+	<File name="utn.c" open="1" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2972" topLine="141" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
