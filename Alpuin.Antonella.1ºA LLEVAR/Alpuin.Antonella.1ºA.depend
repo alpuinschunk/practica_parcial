@@ -1,0 +1,145 @@
+# depslib dependency file v1.0
+1539007226 source:d:\alpuin\alpuin.antonella.1ºa\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"cliente.h"
+
+1538930454 d:\alpuin\alpuin.antonella.1ºa\utn.h
+
+1539009765 d:\alpuin\alpuin.antonella.1ºa\cliente.h
+
+1539007226 source:d:\alpuin\alpuin.antonella.1ºa\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"juegos.h"
+
+1539001083 d:\alpuin\alpuin.antonella.1ºa\juegos.h
+
+1538931302 source:d:\alpuin\alpuin.antonella.1ºa\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1539007895 source:d:\alpuin\alpuin.antonella.1ºa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"alquileres.h"
+	"cliente.h"
+	"juegos.h"
+
+1539009831 source:d:\alpuin\alpuin.antonella.1ºa\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"alquileres.h"
+	"cliente.h"
+	"juegos.h"
+
+1539009765 d:\alpuin\alpuin.antonella.1ºa\alquileres.h
+	"juegos.h"
+	"cliente.h"
+
+1539129752 source:c:\users\rodrigo\desktop\antonella\practica_parcial-master\alpuin.antonella.1ºa\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"alquileres.h"
+	"cliente.h"
+	"juegos.h"
+
+1539113724 c:\users\rodrigo\desktop\antonella\practica_parcial-master\alpuin.antonella.1ºa\utn.h
+
+1539129413 c:\users\rodrigo\desktop\antonella\practica_parcial-master\alpuin.antonella.1ºa\alquileres.h
+	"juegos.h"
+	"cliente.h"
+
+1539123375 c:\users\rodrigo\desktop\antonella\practica_parcial-master\alpuin.antonella.1ºa\juegos.h
+
+1539010662 c:\users\rodrigo\desktop\antonella\practica_parcial-master\alpuin.antonella.1ºa\cliente.h
+
+1539125296 source:c:\users\rodrigo\desktop\antonella\practica_parcial-master\alpuin.antonella.1ºa\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"cliente.h"
+
+1539129876 source:c:\users\rodrigo\desktop\antonella\practica_parcial-master\alpuin.antonella.1ºa\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"juegos.h"
+
+1539010662 source:c:\users\rodrigo\desktop\antonella\practica_parcial-master\alpuin.antonella.1ºa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"alquileres.h"
+	"cliente.h"
+	"juegos.h"
+
+1539113724 source:c:\users\rodrigo\desktop\antonella\practica_parcial-master\alpuin.antonella.1ºa\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1539113724 source:c:\users\rodrigo\desktop\alpuin.antonella.1ºa\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1539143431 source:c:\users\rodrigo\desktop\alpuin.antonella.1ºa\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"alquileres.h"
+	"cliente.h"
+	"juegos.h"
+
+1539113724 c:\users\rodrigo\desktop\alpuin.antonella.1ºa\utn.h
+
+1539142954 c:\users\rodrigo\desktop\alpuin.antonella.1ºa\alquileres.h
+	"juegos.h"
+	"cliente.h"
+
+1539142135 c:\users\rodrigo\desktop\alpuin.antonella.1ºa\juegos.h
+
+1539141146 c:\users\rodrigo\desktop\alpuin.antonella.1ºa\cliente.h
+
+1539143859 source:c:\users\rodrigo\desktop\alpuin.antonella.1ºa\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"cliente.h"
+
+1539141153 source:c:\users\rodrigo\desktop\alpuin.antonella.1ºa\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"juegos.h"
+
+1539142954 source:c:\users\rodrigo\desktop\alpuin.antonella.1ºa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"alquileres.h"
+	"cliente.h"
+	"juegos.h"
+
